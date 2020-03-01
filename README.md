@@ -1,0 +1,2 @@
+# -
+A touchless switch structure
